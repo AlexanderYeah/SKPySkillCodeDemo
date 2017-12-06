@@ -5,3 +5,5 @@ Writing a peice of code which make it easy to do seriously fast development
 2 -- 12.4日 python 内建模块 collection 中deque 的 使用-->[Go There](https://github.com/AlexanderYeah/SKPySkillCodeDemo/blob/master/Code2/code2.md)  
 3 -- 12.4日 python 内建模块 datetime  -->[Go There](https://github.com/AlexanderYeah/SKPySkillCodeDemo/blob/master/Code3/code3.md)  
 4 -- 12.5日 python 内建模块 hashlib  -->[Go There](https://github.com/AlexanderYeah/SKPySkillCodeDemo/blob/master/Code4/code4.md)
+4 -- 12.6日 code6 python 内建模块 itertools  -->[Go There](https://github.com/AlexanderYeah/SKPySkillCodeDemo/blob/master/Code6/code6.md)
+4 -- 12.6日 code7 python 进程之间的通信  -->[Go There](https://github.com/AlexanderYeah/SKPySkillCodeDemo/blob/master/Code7/code7.md)
