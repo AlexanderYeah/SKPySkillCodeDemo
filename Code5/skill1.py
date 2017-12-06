@@ -1,6 +1,8 @@
 #coding=utf-8;
 
 import socket
+import pdb
+import sys
 print("---------Section 1 使用三元操作符--------");
 """ 1 使用三元操作符 赋值
     [表达式为真的返回值] if [表达式] else [表达式为假的返回值]
@@ -45,3 +47,16 @@ print("---------Section 4 打印引入模块的文件路径--------");
 # 如果要知道引入模块的路径
 # <module 'socket' from '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py'>
 print(socket);
+
+print("---------Section 5 断点调试--------");
+"""
+    引入pdb 模块
+"""
+# 设置断点
+#pdb.set_trace();
+print("break there")
+
+print("---------Section 6 运行时检测 Python 版本--------");
+# sys.version_info(major=3, minor=5, micro=0, releaselevel='final', serial=0)
+# 代表3.5 版本的
+print(sys.version_info);
