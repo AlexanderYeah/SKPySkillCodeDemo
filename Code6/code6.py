@@ -41,7 +41,11 @@ y ['y', 'y', 'y']
 S ['S', 'S', 'S']
 k ['k', 'k', 'k']
     """
-    print(key,list(group));
+print(key,list(group));
+
+
+
+
 
 
 
